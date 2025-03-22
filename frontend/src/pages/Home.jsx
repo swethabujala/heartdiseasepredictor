@@ -12,7 +12,7 @@ const Home = () => {
         Enter your details and get instant insights into your cardiovascular health.
       </p>
       <button 
-        onClick={() => navigate("/prediction")}
+        onClick={() => navigate("/predict")}
         className="mt-6 bg-[#20c997] text-[#001f3f] px-6 py-3 text-lg font-semibold rounded-lg shadow-md hover:bg-[#14b8a6]"
       >
         Get Started
